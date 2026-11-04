@@ -1,0 +1,1 @@
+Server=tcp:DESKTOP-K64LUIR;Database=garden_center;User Id=student;Password=123;Encrypt=False;TrustServerCertificate=True;
